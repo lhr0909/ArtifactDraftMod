@@ -1,0 +1,19 @@
+{
+  "name": "artifact-draft-mod",
+  "version": "0.0.1",
+  "description": "Mod that uses LiquidHyped's Draft Tier List",
+  "main": "index.js",
+  "repository": "git@github.com:lhr0909/ArtifactDraftMod.git",
+  "author": "Simon Liang <no.lhr0909@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "@node-steam/vdf": "^2.0.1",
+    "axios": "^0.18.0",
+    "glob": "^7.1.3",
+    "lodash": "^4.17.11"
+  }
+}
