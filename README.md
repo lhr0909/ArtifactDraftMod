@@ -1,5 +1,5 @@
 # ArtifactDraftMod
-Mod file generator based on LiquidHyped's draft tier list
+Mod file generator based on [LiquidHyped's draft tier list](https://drawtwo.gg/hypeds-draft-tier-list)
 
 ![image](https://user-images.githubusercontent.com/1154575/49697109-616b2480-fbee-11e8-84d9-a9598b1c5860.png)
 
