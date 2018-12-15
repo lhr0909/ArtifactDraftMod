@@ -29,7 +29,7 @@ const DRAWTWO_TIERS = {
 
 const ARTIFACT_PATH_MAC = `${os.homedir()}/Library/Application\ Support/Steam/steamapps/common/Artifact/game/dcg/resource`;
 
-const BACKUP_PATH = `${process.cwd()}/backups`;
+const BACKUP_PATH = `${process.cwd()}/original`;
 const GENERATED_PATH = `${process.cwd()}/generated`;
 
 async function main(source, destination) {

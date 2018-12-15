@@ -249,7 +249,7 @@
 		"CardName_10085"		"[B38] Sombra da Assassina"
 		"CardText_10085"		"5 de [g:501[Cerco]]. A {s:thisCardName} recebe -2 de [g:509[Ataque]] para cada aliado."
 		"CardEffect_10085_0"		"A {s:thisCardName} recebe -2 de [g:509[Ataque]] para cada aliado."
-		"CardName_10086"		"[A12] Discípulo de Nuncamais"
+		"CardName_10086"		"[A12] Discípula de Nuncamais"
 		"CardText_10086"		"Outros aliados recebem +2 de [g:509[Ataque]] e -2 de [g:504[Armadura]]."
 		"CardEffect_10086_0"		"Outros aliados recebem +2 de [g:509[Ataque]] e -2 de [g:504[Armadura]]."
 		"CardName_10087"		"[A29] Porta-estandarte da Legião"
