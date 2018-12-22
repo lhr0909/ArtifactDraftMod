@@ -13,3 +13,11 @@ Please download the following zip and extract into the Artifact resource folder.
 ![image](https://user-images.githubusercontent.com/1154575/49694919-76838b80-fbcd-11e8-9976-bacb4ffeabc4.png)
 
 Once you navigate into the game local files via Steam, it is in `dcg/resource`.
+
+# How to Update the repository
+
+First update your game files, and make sure the resource folder of your game resources file are up to date (you can click on the `verify integrity of game files` option from the Steam properties menu).
+
+Make a copy of the original game files into the `original` directory. Then run `npm start` to run the mod code.
+
+Verify the `generated` folder has the tiers added. Then open a pull request on GitHub. I will take care of the rest with releasing. Cheers!
