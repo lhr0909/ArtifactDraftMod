@@ -6,6 +6,7 @@ const axios = require('axios');
 const _ = require('lodash');
 const util = require('util');
 const VDF = require('@node-steam/vdf');
+const leftPad = require('left-pad');
 
 const readFileAsync = util.promisify(fs.readFile);
 const writeFileAsync = util.promisify(fs.writeFile);
@@ -18,7 +19,7 @@ const MAIN_LIST = `${DRAWTWO_ROOT}/main`;
 
 // tiers mapping
 const DRAWTWO_TIERS = {
-  6: 'S',
+  6: '$',
   5: 'A',
   4: 'B',
   3: 'C',
@@ -80,7 +81,7 @@ async function main(source, destination) {
         continue;
       }
 
-      _.set(cardSet, `lang.Tokens.CardName_${cardId}`, `[${DRAWTWO_TIERS[tier]}${position}] ${cardName}`);
+      _.set(cardSet, `lang.Tokens.CardName_${cardId}`, `[${DRAWTWO_TIERS[tier]}${leftPad(position, 2, '0')}] ${cardName}`);
     }
   }
 
