@@ -81,7 +81,7 @@
 		"CardText_6007"		"<br><br>[color:quick[[g:604[&#9634; Obtenha iniciativa]].]]  Cure completamente uma [g:607[unidade]] ou [g:2[torre]] em qualquer trilha."
 		"CardName_6008"		"Trapaça de Revelação"
 		"CardText_6008"		"<br><br>[color:quick[[g:604[&#9634; Obtenha iniciativa]].]]  Revele todas as cartas na mão do adversário."
-		"CardName_6009"		"Trapaça de Assassinato"
+		"CardName_6009"		"Trapaça de Assassination"
 		"CardText_6009"		"<br><br>[color:quick[[g:604[&#9634; Obtenha iniciativa]].]]  [g:408[Condene]] uma [g:607[unidade]] em qualquer trilha."
 		"CardName_6022"		"Trapaça de Trava e Revelação"
 		"CardText_6022"		"<br><br>[color:quick[[g:604[&#9634; Obtenha iniciativa]].]]  Imponha +1 de [g:407[trava]] a todas as cartas na sua mão e depois as revele. Imponha +1 de [g:407[trava]] a todas as cartas na mão do seu adversário e depois as revele."
